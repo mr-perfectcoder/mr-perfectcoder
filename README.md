@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mr-perfectcoder . [Ashish Ranjan]
 - 👀 I’m interested in  MERN/MEAN based projects. 
-- 🌱 I’m self taught Full Stack Developer 😎.
+- 🌱 I’m a self-taught Full Stack Developer  😎.
 - 📫 mailto:  ashishranjan.ar7@gmail.com 
 
 <!---
